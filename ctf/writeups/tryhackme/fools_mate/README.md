@@ -14,7 +14,7 @@ Of course there is. To understand the mechanism behind this chess game, let's au
 
 Scrolling down through the bottom, we can find the JS script module. Click to navigate to the source code. Or type `view-source:http://YOUR_ATTACK_MACHINE_IP_ADDRESS/js/app.js` in the URL field. Understand the JS code helps you to understand how this is working in the nutshell.
 
-Upon reviewing the code, I found an interesting code that looks exactly like the "win" is trigger.
+Upon reviewing the code, I found an interesting code that looks exactly when the "win" was trigger.
 Remember what it says when we try to move the rook to `a8`?
 Yes this is the code that control the win mechanism.
 ![](image_2.png)
