@@ -48,4 +48,6 @@ Yes, **Private** page now displaying the flag/password of this challenge.
 
 ![](image_3.png)
 
+> Important Note: be sure to define an id attribute in the `form` tag. This is how we refer to the form when we submit it via JavaScript.
+
 Congratulations! 🎉
